@@ -1,0 +1,13 @@
+.demo1{
+    border: 1px;
+    background-color: red;
+}
+.demo1 tr:first-child{
+    background-color: blue !important;
+}
+
+table tr:first-child{
+    background-color:yellow;
+}
+
+
